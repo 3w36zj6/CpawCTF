@@ -1,2 +1,2 @@
 # CpawCTF
-CpawCTF
+https://ctf.cpaw.site
